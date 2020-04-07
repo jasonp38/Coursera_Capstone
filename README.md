@@ -1,2 +1,3 @@
 # Coursera_Capstone
-A repository for the IBM-Cousera Data Science Capstone
+This is a repository for the IBM-Cousera Data Science Capstone.
+Enjoy!
