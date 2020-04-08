@@ -8,6 +8,11 @@ Enjoy!
 Narrative: In this notebook/repositiroy, we will use k-Means to analysze and cluster neighborhoods in Toronto, Canada.
 
 ========= Week 4 =========
-# XXXX
+# XXXX - Coming Soon
 
-Narrative: XXXX
+Narrative: XXXX - Coming Soon
+
+========= Week 5 =========
+# XXXX - Coming Soon
+
+Narrative: XXXX - Coming Soon
