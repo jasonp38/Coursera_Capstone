@@ -3,7 +3,7 @@ This is a repository for the IBM-Cousera Data Science Capstone.
 Enjoy!
 
 ## ========= Week 3 =============================
-### Clustering Toronto Neighborhoods
+## Title: Clustering Toronto Neighborhoods
 
 Narrative: In this notebook/repositiroy, we will use k-Means to analysze and cluster neighborhoods in Toronto, Canada.
 
