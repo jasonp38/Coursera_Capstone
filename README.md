@@ -17,7 +17,7 @@ Narrative:
 **PLEASE NOTE: GitHub is NOT showing maps very well, so please reference the other link, as well**
 
 GitHub Link (1):
-https://github.com/jasonp38/Coursera_Capstone/blob/43b39a03dada744a893ac16a05f6a742d2c3e8e0/IBM%20Applied%20Data%20Science%20Capstone%20-%20Final%20Project.ipynb
+https://github.com/jasonp38/Coursera_Capstone/blob/43b39a03dada744a893ac16a05f6a742d2c3e8e0/IBM%20Applied%20Data%20Science%20Capstone%20-%20Final%20Project.ipynb 
 
 GitHub Link (2):
 https://github.com/jasonp38/Coursera_Capstone/blob/master/Final%20Project%20Presentation.pdf
